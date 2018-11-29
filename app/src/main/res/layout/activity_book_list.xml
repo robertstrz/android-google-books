@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:id="@+id/search_view_container"
     tools:context="com.example.rostrzep.googlebooksapp.view.books.BooksSearchActivity">
 
     <EditText
